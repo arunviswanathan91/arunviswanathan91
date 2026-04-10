@@ -1,16 +1,42 @@
-## Hi there 👋
+# Arun Geetha Viswanathan
+Wet lab scientist who somehow ended up writing Python at 2am.
+I'm a PhD candidate at BRIC-RGCB Thiruvananthapuram, working on obesity-driven pancreatic cancer. My actual job is raising mice, doing immunostaining, and kicking cytometers till it run for real. The bioinformatics happened gradually, then all at once.
 
-<!--
-**arunviswanathan91/arunviswanathan91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## What I work on
+CUrrently working on pancreatic ductal adenocarcinoma (PDAC) - specifically how STAT3 loss reshapes the tumour microenvironment in obese mice. The short version: I planned, then i failed so i resort to biomics data. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- GeoMx spatial transcriptomics
+- LC-MS/MS proteomics
+- Untargeted serum metabolomics
+- Computational pathology (WSI/DICOM pipeline — this one was not in the plan)
+- Bayesian hierarchical modelling (this one really was not in the plan)
+- Single cell analysis (this one was in the plan but did to happen)
+
+*Lab: Cancer Research Program -7, RGCB - Dr. K.B. Harikumar's group  (KBH lab)*
+
+---
+
+## Publications
+
+- *Journal of Advanced Research*, 2023
+- *Progress in Lipid Research*, 2023
+- *Chemico-Biological Interactions*, 2017
+- loading ....
+
+---
+
+## Awards
+
+- GCC Best Oral Presentation, 2nd place (2025)
+- RGCB Best Poster, Top 5 (2025)
+- FCS Singapore Travel Award (2025)
+
+---
+
+## Before the PhD
+
+Taught biology, ocular biochemistry to optometrists in Kozhikode, KL, IN. Coached students for CSIR-NET and GATE. That version of me would be surprised by the GitHub account.
+
+---

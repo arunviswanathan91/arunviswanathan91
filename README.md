@@ -29,8 +29,8 @@ CUrrently working on pancreatic ductal adenocarcinoma (PDAC) - specifically how 
 
 ## Awards
 
-- GCC Best Oral Presentation, 2nd place (2025)
-- RGCB Best Poster, Top 5 (2025)
+- GCC Best Oral Presentation, 2nd place (2025) at Noida, Delhi, IN
+- BRIC-RGCB Best Poster, Top 5 (2025) (this was at our own lobby but still counts)
 - FCS Singapore 🇸🇬 Travel Award (2025) (this is my first ever visit outside IN  | 🇮🇳 🛺 ᯓ ✈︎ 🇸🇬 🦁)
 
 ---

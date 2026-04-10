@@ -12,7 +12,7 @@ CUrrently working on pancreatic ductal adenocarcinoma (PDAC) - specifically how 
 - Untargeted serum metabolomics
 - Computational pathology (WSI/DICOM pipeline — this one was not in the plan)
 - Bayesian hierarchical modelling (this one really was not in the plan)
-- Single cell analysis (this one was in the plan but did to happen)
+- Single cell analysis (this one was in the plan but did to happen, but learned to do it for the plan above this)
 
 *Lab: Cancer Research Program -7, RGCB - Dr. K.B. Harikumar's group  (KBH lab)*
 
@@ -31,7 +31,7 @@ CUrrently working on pancreatic ductal adenocarcinoma (PDAC) - specifically how 
 
 - GCC Best Oral Presentation, 2nd place (2025)
 - RGCB Best Poster, Top 5 (2025)
-- FCS Singapore Travel Award (2025)
+- FCS Singapore 🇸🇬 Travel Award (2025) (this is my first ever visit outside IN  | 🇮🇳 🛺 ᯓ ✈︎ 🇸🇬 🦁)
 
 ---
 

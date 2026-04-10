@@ -8,7 +8,7 @@ It will take days to write a simple code for and often can't write a single code
 ---
 
 ## What I work on
-CUrrently working on pancreatic ductal adenocarcinoma (PDAC) - specifically how STAT3 loss reshapes the tumour microenvironment in obese mice. The short version: I planned, then i failed so i resort to biomics data. 
+Currently working on pancreatic ductal adenocarcinoma (PDAC) - specifically how STAT3 loss reshapes the tumour microenvironment in obese mice. The short version: I planned, then i failed so i resort to biomics data then fail again. 
 
 - GeoMx spatial transcriptomics
 - LC-MS/MS proteomics
@@ -16,6 +16,8 @@ CUrrently working on pancreatic ductal adenocarcinoma (PDAC) - specifically how 
 - Computational pathology (WSI/DICOM pipeline — this one was not in the plan)
 - Bayesian hierarchical modelling (this one really was not in the plan)
 - Single cell analysis (this one was in the plan but did to happen, but learned to do it for the plan above this)
+- An andoid app for my very crafty entrepreneur friend
+- Silly stuffs for my loved ones
 
 *Lab: Cancer Research Program -7, RGCB - Dr. K.B. Harikumar's group  (KBH lab)*
 

@@ -1,5 +1,5 @@
 # Arun (Geetha) Viswanathan
-Wet lab scientist who somehow ended up writing Python at 2am.
+Wet lab scientist who somehow ended up writing Python at 2am. _this is not a prof. CV for that you might need to find me in linkedIN_
 
 I'm a PhD candidate at BRIC-RGCB Thiruvananthapuram, working on obesity-driven pancreatic cancer. My actual job is raising mice, doing immunostaining, and kicking cytometers till it run for real. The bioinformatics happened gradually, then all at once.
 
@@ -10,17 +10,19 @@ It will take days to write a simple code for me and often can't write a single c
 ## What I work on
 Currently working on pancreatic ductal adenocarcinoma (PDAC) - specifically how STAT3 loss reshapes the tumour microenvironment in obese mice. The short version: I planned, then i failed so i resort to omics data(only to fail again). 
 
-- LC-MS/MS proteomics
+- LC-MS/MS proteomics (trying DEqMS with PSM count integration. you should give it a go.)
 - Untargeted serum metabolomics (no code thanks to MetaboAnalyst.ca)
-- Computational pathology (WSI/DICOM pipeline — this one was not in the plan)
-- Bayesian hierarchical modelling (this one really was not in the plan)
-- Single cell RNA analysis (this one was in the plan but did not happen, but learned to do it for the plan above this)
-- Bulk RNA seq analysis
+- Computational pathology (WSI/DICOM pipeline - this one was not in the plan)
+- Bayesian hierarchical modelling with MCMC simulation (this one really was not in the plan, this is so difficult to publish since no one appriciate BHM in low sample scenarios)
+- Single cell RNA analysis (this one was in the plan but did not happen, but learned to do it for the plan above this for single cell reference creation for bayesprism decon)
+- Bulk RNA seq analysis (This oen was so expected.)
 - Metagenomics (no code thanks to Microbiomeanalyst.ca)
 - An andoid app for my very crafty entrepreneur friend sofi <3
 - Silly stuffs for my great boyfriend <3
+- One huge software for flow cytometry called StreamFlow (This one certainly no plan but wanted grab some capitalist monopoly company by it ba**s. or in other word smy licence expired and lab is poor and the commodity is so expensive for a niche analysis software like this. Mus tbe open sourced. Against AI revolution but completely vibe coded with claude. Help me!_or not_)
+- Evrygraph: Making a graphing software respect origin pro, used origin 8 and GraphPad prism. time to open source it with graph apd prism quality and rookie engineer vibe of origin 8. This may never see the light. Amen! (Vibe coding. I know! Hate me. )
 
-*Lab: Cancer Research Program -7, RGCB - Dr. K.B. Harikumar's group  (KBH lab)*
+*Lab: Cancer Research Program -7, RGCB - Dr. K.B. Harikumar's group  (KBH lab), BRIC-Rajiv Gandhi Centre for Biotechnology, Thriruvananthapuram*
 
 ---
 
@@ -29,7 +31,7 @@ Currently working on pancreatic ductal adenocarcinoma (PDAC) - specifically how 
 - *Journal of Advanced Research*, 2023
 - *Progress in Lipid Research*, 2023
 - *Chemico-Biological Interactions*, 2017
-- loading ....
+- first author pubs are loading ....
 
 ---
 
@@ -37,12 +39,12 @@ Currently working on pancreatic ductal adenocarcinoma (PDAC) - specifically how 
 
 - GCC Best Oral Presentation, 2nd place (2025) at Noida, Delhi, IN
 - BRIC-RGCB Best Poster, Top 5 (2025) (this was at our own lobby but still counts)
-- FCS Singapore 🇸🇬 Travel Award (2025) (this is my first ever visit outside IN  | 🇮🇳 🛺 ᯓ ✈︎ 🇸🇬 🦁)
+- FCS Singapore 🇸🇬 Travel Award (2025) (this is my first ever foreign trip _i mean conference_ IN  | 🇮🇳 🛺 ᯓ ✈︎ 🇸🇬 🦁)
 
 ---
 
 ## Before the PhD
 
-Taught biology, ocular biochemistry to optometrists in Kozhikode, KL, IN. Coached students for CSIR-NET and GATE. That version of me would be surprised by the GitHub account.
+Taught biology over 4 years, ocular biochemistry to optometrists in Kozhikode, KL, IN. Coached students for CSIR-NET and GATE. That version of me would be surprised by the GitHub account.
 
 ---

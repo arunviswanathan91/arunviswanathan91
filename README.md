@@ -1,7 +1,7 @@
 # Arun (Geetha) Viswanathan
 🔗 [arunviswanathan91.github.io](https://arunviswanathan91.github.io/)
 
-Wet lab scientist who somehow ended up writing Python at 2am. _this is not a prof. CV for that you might need to find me on LinkedIn_
+Wet lab scientist who somehow ended up writing Python at 2am. _this is not a prof. CV for that you might need to find me on LinkedIn or click above_
 
 I'm a PhD candidate at BRIC-RGCB Thiruvananthapuram, working on obesity-driven pancreatic cancer. My actual job is raising mice, doing immunostaining, and kicking cytometers till it run for real. The bioinformatics happened gradually, then all at once.
 

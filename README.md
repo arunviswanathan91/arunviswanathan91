@@ -15,7 +15,7 @@ Currently working on pancreatic ductal adenocarcinoma (PDAC) - specifically how 
 - LC-MS/MS proteomics (trying [DEqMS](https://github.com/yafeng/DEqMS) with PSM count integration. you should give it a go.)
 - Untargeted serum metabolomics (no code thanks to MetaboAnalyst.ca)
 - Computational pathology (WSI/DICOM pipeline - this one was not in the plan)
-- Bayesian hierarchical modelling with MCMC simulation (this one really was not in the plan, this is so difficult to publish since no one appreciates BHM in low sample scenarios)
+- Bayesian hierarchical modelling with MCMC simulation (this one really was not in the plan, this is so difficult to publish since no one appreciates BHM in low sample scenarios. Find the details [here](https://obese-pdac-model.streamlit.app/))
 - Single cell RNA analysis (this one was in the plan but did not happen, but learned to do it for the plan above this for single cell reference creation for bayesprism decon)
 - Bulk RNA seq analysis (This one was so expected.)
 - Metagenomics (no code thanks to Microbiomeanalyst.ca)
@@ -41,7 +41,7 @@ Currently working on pancreatic ductal adenocarcinoma (PDAC) - specifically how 
 
 - GCC Best Oral Presentation, 2nd place (2025) at Noida, Delhi, IN
 - BRIC-RGCB Best Poster, Top 5 (2025) (this was at our own lobby but still counts)
-- FCS Singapore 🇸🇬 Travel Award (2025) (this is my first ever foreign trip _i mean conference_ IN  | 🇮🇳 🛺 ᯓ ✈︎ 🇸🇬 🦁)[_abstract_](https://aacrjournals.org/cancerres/article/86/13_Supplement/P29/786022/Abstract-P29-STAT3-Mediated-Immune-Dysfunction-And)
+- FCS Singapore 🇸🇬 Travel Award (2025) (this is my first ever foreign trip _i mean conference_ IN  | 🇮🇳 🛺 ᯓ ✈︎ 🇸🇬 🦁) [_abstract_](https://aacrjournals.org/cancerres/article/86/13_Supplement/P29/786022/Abstract-P29-STAT3-Mediated-Immune-Dysfunction-And)
 
 ---
 

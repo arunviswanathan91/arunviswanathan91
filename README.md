@@ -1,3 +1,5 @@
+<img align="right" width="38%" src="./212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="late night coding">
+
 # Arun (Geetha) Viswanathan
 🔗 [Profile](https://arunviswanathan91.github.io/)
 
@@ -25,6 +27,23 @@ Currently working on pancreatic ductal adenocarcinoma (PDAC) - specifically how 
 - Evrygraph: Making a graphing software respect origin pro, used origin 8 and GraphPad prism. Time to open source it with graph and prism quality and rookie engineer vibe of origin 8. This may never see the light. Amen! (Vibe coding. I know! Hate me. )
 
 *Lab: Cancer Research Program -7, RGCB - Dr. K.B. Harikumar's group  (KBH lab), BRIC-Rajiv Gandhi Centre for Biotechnology, Thriruvananthapuram*
+
+---
+
+## Repos
+
+<p>
+<a href="https://github.com/arunviswanathan91/StreamFlow"><img src="./cards/StreamFlow.svg" width="49%" alt="StreamFlow"></a>
+<a href="https://github.com/arunviswanathan91/EvryGraph"><img src="./cards/EvryGraph.svg" width="49%" alt="EvryGraph"></a>
+<a href="https://github.com/arunviswanathan91/ImageAnalysis"><img src="./cards/ImageAnalysis.svg" width="49%" alt="ImageAnalysis"></a>
+<a href="https://github.com/arunviswanathan91/MetaboMatch"><img src="./cards/MetaboMatch.svg" width="49%" alt="MetaboMatch"></a>
+<a href="https://github.com/arunviswanathan91/obese-model"><img src="./cards/obese-model.svg" width="49%" alt="obese-model"></a>
+<a href="https://github.com/arunviswanathan91/cell-analysis-viewer"><img src="./cards/cell-analysis-viewer.svg" width="49%" alt="cell-analysis-viewer"></a>
+<a href="https://github.com/arunviswanathan91/FIJI-imagej"><img src="./cards/FIJI-imagej.svg" width="49%" alt="FIJI-imagej"></a>
+<a href="https://github.com/arunviswanathan91/TranscriptomicsTutorials"><img src="./cards/TranscriptomicsTutorials.svg" width="49%" alt="TranscriptomicsTutorials"></a>
+<a href="https://github.com/arunviswanathan91/Sofie-dream"><img src="./cards/Sofie-dream.svg" width="49%" alt="Sofie-dream"></a>
+<a href="https://github.com/arunviswanathan91/CRP7"><img src="./cards/CRP7.svg" width="49%" alt="CRP7"></a>
+</p>
 
 ---
 

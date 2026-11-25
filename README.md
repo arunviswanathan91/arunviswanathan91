@@ -1,8 +1,8 @@
-<img align="right" width="38%" src="./212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="late night coding">
+
 
 # Arun (Geetha) Viswanathan
-🔗 [Profile](https://arunviswanathan91.github.io/)
-
+🔗 [Profile](https://arunviswanathan91.github.io/) 
+<img align="right" width="38%" src="./212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="late night coding">
 Wet lab scientist who somehow ended up writing Python at 2am. _this is not a prof. CV for that you might need to find me on [LinkedIn](https://www.linkedin.com/in/arungeethaviswanathan/) or click above_
 
 I'm a PhD candidate at BRIC-RGCB Thiruvananthapuram, working on obesity-driven pancreatic cancer. My actual job is raising mice, doing immunostaining, and kicking cytometers till it run for real. The bioinformatics happened gradually, then all at once.
